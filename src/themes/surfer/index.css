@@ -1,0 +1,14 @@
+@font-face {
+	font-family: 'RobuckRounded';
+	src: url('./assets/fonts/RobuckRounded.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	/* font-family: 'SurfFont', sans-serif; */
+}
+
+.font-logo {
+	font-family: 'RobuckRounded', sans-serif;
+}
